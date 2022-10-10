@@ -7,9 +7,9 @@ ToDo is a simple task manager. It allows us to save tasks with simple CRUD opera
 ![image](https://user-images.githubusercontent.com/78959562/194781659-e272941d-f8ad-4965-8772-f38883dd3c8d.png)
 
 ## :books: Technologies and languages used :books: ##
-Android Studio
-Firebase
-Java
+* Android Studio
+* Firebase
+* Java
 
 ## :label: Requires :label: ##
-Android 10
+* Android 10
